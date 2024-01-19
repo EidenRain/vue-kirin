@@ -1,6 +1,6 @@
 <template>
   <main class="h-full">
-    <RouterView :to="{ name: 'Initial' }" />
+    <RouterView />
   </main>
 </template>
 
